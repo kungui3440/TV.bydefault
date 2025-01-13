@@ -1,0 +1,10 @@
+#EXTM3U
+
+EXTINF:0 tvg-id=»PlayTV» tvg-logo=»https://playtelevision.com.ar/wp-content/uploads/2022/09/LOGO-PLAY-TV-e1663785580466-600x607.png» group-title=»TV»,PlayTV
+https://vivo.solumedia.com:19360/playtv/playtv.m3u8
+
+EXTINF:1 tvg-id=»LinkTV» tvg-logo=»https://linktvcanal.com/wp-content/uploads/2017/07/logo.png group-title=»TV»,LinkTV
+https://panel.host-live.com:19360/linktv/linktv.m3u8
+
+EXTINF:2 tvg-id=»RadioCSC» tvg-logo=»https://radiocsc.com/wp-content/uploads/elementor/thumbs/LOGO-PNG-BLANCO-CSC-degrade-pzu1e5b0jzzmkqgti01p5mzzj5nih8apoxlwoyhtie.png group-title=»TV»,RadioCSC
+https://radiocsc.com/csc.m3u8
